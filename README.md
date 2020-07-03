@@ -5,4 +5,4 @@ Created from templates made available by Stagehand under a BSD-style
 [license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
 
 
-<img src="img/img.png" alt="image" width="500" height="600">
+<img src="https://github.com/shawon1fb/dart-colorfull-loagger/blob/master/img/img.png?raw=true" alt="image">
